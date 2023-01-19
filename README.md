@@ -1,5 +1,4 @@
 # Performance evaluation of Terapixel rendering in Cloud Computing
-Project
 
 The performance of terapixel rendering in cloud (super)computing involves monitoring and assessing the speed and efficacy of rendering big pictures at a high resolution. This work's three main goals are to build a supercomputer architecture for scalable visualisation utilising the public cloud, establish a terapixel 3D city visualisation that supports daily updates, and conduct a thorough assessment of cloud supercomputing for compute-intensive visualisation applications.
 
